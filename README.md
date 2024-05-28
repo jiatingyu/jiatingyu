@@ -2,12 +2,13 @@
 
 ## Hi there 👋
 
-一个目前拥有五年工作经验的前端工程师:
+一名目前拥有五年工作经验的前端工程师:
 
 - 🔭 微信公众号：子羽前端
 - 🌱 [掘金主页](https://juejin.cn/user/3237443114372424) 欢迎关注
-- 🤔 [个人网站](http://jiatingyu.top)
+
 <!-- - 👯 I’m looking to collaborate on ...
+- 🤔 [个人网站](http://jiatingyu.top)
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
